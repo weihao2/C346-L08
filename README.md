@@ -6,16 +6,16 @@ A mobile application that displays a list of boats for sale. Users can view diff
 
 Screenshots:
 
-<img src="./ScreenshotsAfterChanges/Screenshot 2026-11-12 112910.png">
-<img src="./ScreenshotsAfterChanges/Screenshot 2026-11-12 112928.png">
-<img src="./ScreenshotsAfterChanges/Screenshot 2026-11-12 112949.png">
+![Before 1](<./ScreenshotsBeforeChanges/Screenshot 2026-11-12 112910.png>)
+![Before 2](<./ScreenshotsBeforeChanges/Screenshot 2026-11-12 112928.png>)
+![Before 3](<./ScreenshotsBeforeChanges/Screenshot 2026-11-12 112949.png>)
 
 # ScreenShots of App AFTER applying Stylesheet changes
 
 Screenshots:
-<img src="./ScreenshotsBeforeChanges/Screenshot 2026-11-14 212653.png">
-<img src="./ScreenshotsBeforeChanges/Screenshot 2026-11-14 212705.png">
-<img src="./ScreenshotsBeforeChanges/Screenshot 2026-11-14 212713.png">
+![After 1](<./ScreenshotsAfterChanges/Screenshot 2026-11-14 212653.png>)
+![After 2](<./ScreenshotsAfterChanges/Screenshot 2026-11-14 212705.png>)
+![After 3](<./ScreenshotsAfterChanges/Screenshot 2026-11-14 212713.png>)
 
 
 Demo Video Link:
